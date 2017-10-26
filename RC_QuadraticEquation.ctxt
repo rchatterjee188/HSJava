@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=coefficientA\ coefficientB\ coefficientC
+comment0.target=RC_QuadraticEquation(double,\ double,\ double)
+comment0.text=\r\n\ Constructor\ to\ define\ the\ instance\ fields\ a,\ b,\ and\ c.\r\n\ @param\ the\ coefficients\ of\ the\ equation\ ax^2\ +\ bx\ +\ c\ \=\ 0\r\n
+comment1.params=
+comment1.target=double\ getA()
+comment1.text=\r\n\ Returns\ the\ coefficint\ a\ in\ the\ equation\ ax^2\ +\ bx\ +\ c\ \=\ 0\r\n\ @return\ instance\ field\ a\r\n
+comment2.params=
+comment2.target=double\ getB()
+comment2.text=\r\n\ Returns\ the\ coefficint\ b\ in\ the\ equation\ ax^2\ +\ bx\ +\ c\ \=\ 0\r\n\ @return\ instance\ field\ b\r\n
+comment3.params=
+comment3.target=double\ getC()
+comment3.text=\r\n\ Returns\ the\ coefficint\ c\ in\ the\ equation\ ax^2\ +\ bx\ +\ c\ \=\ 0\r\n\ @return\ instance\ field\ c\r\n
+comment4.params=
+comment4.target=double\ getDiscriminant()
+comment4.text=\r\n\ Calculate\ and\ return\ the\ discriminant\ (b^2\ -\ 4ac)\r\n\ @return\ discriminnt\r\n
+comment5.params=
+comment5.target=double\ getRoot1()
+comment5.text=\r\n\ Calculate\ and\ return\ the\ one\ of\ the\ roots\ of\ the\ equation\ ax^2\ +\ bx\ +\ c\ \=\ 0\r\n\ @return\ the\ root\ obtained\ with\ adding\r\n
+comment6.params=
+comment6.target=double\ getRoot2()
+comment6.text=\r\n\ Calculate\ and\ return\ the\ one\ of\ the\ roots\ of\ the\ equation\ ax^2\ +\ bx\ +\ c\ \=\ 0\r\n\ @return\ the\ root\ obtained\ with\ subtracting\r\n
+numComments=7

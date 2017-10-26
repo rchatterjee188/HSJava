@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=RC_SavingsAccountTester()
+comment0.text=\r\n\ Default\ constructor\ for\ RC_SavingsAccountTester\r\n
+comment1.params=
+comment1.target=void\ tester()
+comment1.text=\r\n\ Runs\ the\ tests\ for\ the\ RC_SavingsAccount\ class\r\n
+numComments=2

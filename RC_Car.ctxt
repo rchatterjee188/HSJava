@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=fuelEfficiency
+comment0.target=RC_Car(double)
+comment0.text=\r\n\ Constructor\ for\ RC_Car\ sets\ efficiency\ to\ given\ amount,\ and\ fuelLevel\ to\ 0.\r\n\ @param\ the\ fuel\ efficiency\ of\ car\ in\ miles/gallon\r\n
+comment1.params=
+comment1.target=RC_Car()
+comment1.text=\r\n\ Default\ onstructor\ for\ RC_Car\ sets\ efficiency\ and\ fuelLevel\ to\ 0.\r\n
+comment2.params=distance
+comment2.target=void\ drive(double)
+comment2.text=\r\n\ Simulates\ driving\ by\ reducing\ the\ fuel\ based\ on\ distance\ given.\r\n\ @param\ distance\ traveled\r\n
+comment3.params=
+comment3.target=double\ getGas()
+comment3.text=\r\n\ Returns\ the\ current\ fuel\ level.\r\n\ @return\ the\ fuelLevel\r\n
+comment4.params=addGallons
+comment4.target=void\ addGas(int)
+comment4.text=\r\n\ Adds\ the\ given\ number\ of\ gallons\ of\ gas\ to\ the\ fuelLevel.\r\n\ @param\ number\ of\ gallons\ to\ add\r\n
+numComments=5

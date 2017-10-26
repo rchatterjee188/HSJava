@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=initialBalance\ interestRate
+comment0.target=RC_SavingsAccount(double,\ double)
+comment0.text=\r\n\ Constructs\ a\ constructor\ for\ RC_SavingsAccount\ with\ a\ given\ balance\ and\ interest\ rate.\r\n\ @param\ the\ initial\ balance,\ the\ rate\ of\ interest\ (as\ a\ percent)\r\n
+comment1.params=amount
+comment1.target=void\ deposit(double)
+comment1.text=\r\n\ Deposits\ money\ into\ the\ bank\ account.\r\n\ @param\ amount\ the\ amount\ to\ deposit\r\n
+comment2.params=amount
+comment2.target=void\ withdraw(double)
+comment2.text=\r\n\ Withdraws\ money\ from\ the\ bank\ account.\r\n\ @param\ amount\ the\ amount\ to\ withdraw\r\n
+comment3.params=
+comment3.target=void\ addInterest()
+comment3.text=\r\n\ Adds\ the\ interest\ to\ the\ bank\ account.\r\n
+comment4.params=
+comment4.target=double\ getBalance()
+comment4.text=\r\n\ Gets\ the\ current\ balance\ of\ the\ bank\ account.\r\n\ @return\ the\ current\ balance\r\n
+numComments=5

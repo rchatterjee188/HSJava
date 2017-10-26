@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=RC_RabbitPopulation()
+comment0.text=\r\n\ Constructor\ for\ RC_RabbitPopulation\ that\ has\ a\ pair\ of\ new\ borns\ in\ month\ 0.\r\n
+comment1.params=
+comment1.target=void\ waitAMonth()
+comment1.text=\r\n\ Add\ the\ approrpiate\ number\ of\ baby\ rabbits,\ and\ increase\ the\ age\ to\ the\ previous\ new\ borns.\r\n
+comment2.params=
+comment2.target=int\ getPairs()
+comment2.text=\r\n\ Returns\ the\ number\ of\ rabbits\ to\ the\ user\r\n\ @return\ number\ of\ mating\ rabbits\r\n
+numComments=3

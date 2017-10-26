@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=velocity\ degrees
+comment0.target=RC_BallisticMotion2(double,\ double)
+comment0.text=\r\n\ Constructor\ for\ RC_BallisticMotion2\ that\ initializes\ the\ values\ for\ a\ ball's\ flight.\r\n
+comment1.params=
+comment1.target=void\ runSimulation()
+numComments=2

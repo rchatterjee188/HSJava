@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=memberName\ whatMember
+comment0.target=RC_Person(java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Construstor\ for\ RC_Person\ class\r\n\ @param\ name\ of\ family\ member,\ description\ of\ what\ member\ of\ the\ family\ it\ is.\r\n
+comment1.params=anAge
+comment1.target=void\ setAge(int)
+comment1.text=\r\n\ Prompts\ the\ user\ for\ age\ and\ updates\ the\ class\ instance\ field.\r\n\ @param\ age\ of\ the\ family\ member\r\n
+comment2.params=doing
+comment2.target=void\ setWhatIamDoing(java.lang.String)
+comment2.text=\r\n\ Prompts\ the\ user\ and\ updates\ the\ class\ instance\ field\ currentActivity.\ Keep\ the\ number\ of\ \r\n\ activities\ low\ so\ it\ doesn't\ become\ too\ lengthly.\r\n\ @param\ activity\ that\ the\ member\ is\ doing\r\n
+comment3.params=
+comment3.target=java.lang.String\ getWhatIamDoing()
+comment3.text=\r\n\ It\ displays\ the\ currentActivity.\r\n\ @return\ activity\ that\ the\ member\ is\ doing\r\n
+numComments=4

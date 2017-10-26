@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=RC_Heart()
+comment0.text=\r\n\ Sets\ all\ values\ for\ the\ heart\ as\ a\ medium\ heart\r\n
+comment1.params=
+comment1.target=void\ setMedium()
+comment1.text=\r\n\ Changes\ the\ heart\ to\ be\ medium\ sized\r\n
+comment2.params=
+comment2.target=void\ setLarge()
+comment3.params=
+comment3.target=void\ makeVisible()
+comment4.params=
+comment4.target=void\ makeInvisible()
+comment5.params=
+comment5.target=void\ drawFlashing()
+numComments=6

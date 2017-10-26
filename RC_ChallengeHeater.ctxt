@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=maxTemperature\ minTemperature
+comment0.target=RC_ChallengeHeater(double,\ double)
+comment0.text=\r\n\ Create\ a\ Heater\ object-\ with\ initial\ temperature\ and\ increment,\ and\ min\ and\ max\ from\ param\r\n\ @param\ minimum\ temperatue\ and\ maximum\ temperature\r\n
+comment1.params=
+comment1.target=void\ warmer()
+comment1.text=\r\n\ Increases\ the\ temperature\ by\ 'increment'\ degrees.\r\n
+comment2.params=
+comment2.target=void\ cooler()
+comment2.text=\r\n\ Decreases\ the\ temperature\ by\ 'increment'\ degrees.\r\n
+comment3.params=increm
+comment3.target=void\ setIncrement(double)
+comment3.text=\r\n\ Allow\ the\ user\ to\ set\ the\ increment.\r\n
+comment4.params=
+comment4.target=double\ getTemperature()
+comment4.text=\r\n\ Return\ the\ value\ from\ temperature.\r\n
+numComments=5
