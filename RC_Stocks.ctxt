@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=stockSymbol\ stockName\ previousPrice\ currentPrice
+comment0.target=RC_Stocks(java.lang.String,\ java.lang.String,\ double,\ double)
+comment0.text=\r\n\ Constructor\ for\ RC_Stocks\ that\ instanciates\ the\ variables\r\n\ @param\ stock\ symbol,\ stock\ name,\ previous\ stock\ price,\ current\ stock\ price\r\n
+comment1.params=
+comment1.target=double\ getChangePercent()
+comment1.text=\r\n\ Returns\ the\ percentage\ changed\ from\ previousClosingPrice\ to\ currentPrice\r\n\ @return\ percent\ change\ from\ previous\ to\ current\ prices\r\n
+numComments=2
