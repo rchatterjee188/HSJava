@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=double\ heightInFeet()
+comment0.text=\r\n\ \ Converts\ centimetres\ height\ to\ feet\ because\ apparently\ Americans\ don't\ understand\ the\ metric\ system.\ Sad\!\r\n
+comment1.params=firstName\ lastName\ age\ gender\ height\ hairColor
+comment1.target=Person(java.lang.String,\ java.lang.String,\ int,\ java.lang.String,\ double,\ java.lang.String)
+comment1.text=\r\n\ Construct\ person\ object\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ Override\ Object's\ toString()\ method\ so\ when\ called\ returns\ string\ consisting\ of\ name\ of\ person\r\n
+numComments=3

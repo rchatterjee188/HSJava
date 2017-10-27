@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=RC_School()
+comment0.text=\r\n\ Constructs\ an\ empty\ school\r\n
+comment1.params=newTeacher
+comment1.target=boolean\ addTeacher(Teacher)
+comment1.text=\r\n\ Adds\ a\ teacher\ to\ the\ school\r\n
+comment2.params=newStudent
+comment2.target=boolean\ addStudent(Student)
+comment2.text=\r\n\ Adds\ a\ student\ to\ the\ school\ and\ adds\ a\ course\r\n
+comment3.params=
+comment3.target=java.util.ArrayList\ getStudents()
+comment4.params=newClass
+comment4.target=boolean\ createClass(Course)
+comment4.text=\r\n\ Creates\ a\ new\ class\ in\ the\ school\ and\ adds\ a\ student\r\n
+comment5.params=classAdd\ student
+comment5.target=void\ addStudentToClass(Course,\ Student)
+comment5.text=\r\n\ Adds\ a\ student\ to\ the\ specified\ course\r\n
+comment6.params=studentID
+comment6.target=void\ getGradesOfStudentByID(int)
+comment6.text=\r\n\ Uses\ the\ given\ student\ ID\ to\ get\ and\ print\ the\ grades\ of\ the\ student\r\n
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

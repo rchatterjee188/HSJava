@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=firstName\ lastName\ age\ gender\ height\ hairColor\ startingSalary\ greeting
+comment0.target=Teacher(java.lang.String,\ java.lang.String,\ int,\ java.lang.String,\ double,\ java.lang.String,\ int,\ java.lang.String)
+comment0.text=\r\n\ Constructs\ a\ Teacher,\ first\ by\ constructing\ a\ Person,\ then\ adding\ additional\ data\ of\ Teacher\r\n
+comment1.params=
+comment1.target=java.lang.String\ getGreeting()
+comment1.text=\r\n\ Gets\ greeting\ of\ teacher\r\n
+comment2.params=course
+comment2.target=void\ addClass(Course)
+comment3.params=
+comment3.target=java.util.ArrayList\ getClasses()
+comment4.params=
+comment4.target=java.util.ArrayList\ getStudents()
+numComments=5

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=firstName\ lastName\ age\ gender\ height\ hairColor\ studentID
+comment0.target=Student(java.lang.String,\ java.lang.String,\ int,\ java.lang.String,\ double,\ java.lang.String,\ int)
+comment0.text=\r\n\ Constructs\ a\ Student,\ first\ by\ constructing\ a\ Person\ then\ by\ constructing\ the\ additional\ parts\ of\ a\ student\r\n
+comment1.params=c
+comment1.target=boolean\ addCourse(Course)
+comment2.params=c
+comment2.target=boolean\ removeCourse(Course)
+comment3.params=c\ grade
+comment3.target=void\ addGrade(Course,\ double)
+comment4.params=
+comment4.target=int\ getID()
+comment5.params=
+comment5.target=java.util.HashMap\ getGrades()
+numComments=6
