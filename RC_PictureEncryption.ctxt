@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=fileName\ seed\ tap
+comment0.target=RC_PictureEncryption(java.lang.String,\ java.lang.String,\ int)
+comment1.params=
+comment1.target=RC_PictureEncryption()
+comment2.params=
+comment2.target=RC_Picture\ transform()
+numComments=3
