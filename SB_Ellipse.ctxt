@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SB_Ellipse()
+comment0.text=\r\n\ a\ constructor\ for\ the\ SB_Ellipse\ class\r\n\ initializes\ variables/get\ user\ input/calculate\ points\r\n\ @param-\ not\ used\r\n
+comment1.params=
+comment1.target=void\ userInput()
+comment1.text=\r\n\ get\ input\ necessary\ from\ the\ user\ to\ draw\ the\ ellipse\r\n\ input\ needed\:\ a\ and\ b\ values,\ center\ coordinates,\ orientation\r\n\ it\ is\ assumed\ that\ all\ user\ input\ is\ good\r\n\ @param-\ not\ used\r\n
+comment2.params=
+comment2.target=void\ setPoints()
+comment2.text=\r\n\ calculate\ points\ on\ the\ ellipse\ using\ characteristics\ given\ by\ the\ user\r\n\ add\ calculated\ values\ to\ arrayLists\ to\ store\ them\ to\ graph\ later\r\n\ setter\ method\r\n
+comment3.params=
+comment3.target=java.util.ArrayList\ getxVals()
+comment3.text=\r\n\ return\ the\ arrayList\ of\ x\ values\ on\ the\ ellipse\r\n\ @param-\ not\ used\r\n\ accessor\ method\r\n
+comment4.params=
+comment4.target=java.util.ArrayList\ getyVals()
+comment4.text=\r\n\ a\ method\ to\ return\ an\ arrayList\ of\ the\ y\ values\ below\ the\ center\ corresponding\ to\ the\ x\ values\ \r\n\ @param-\ not\ used\r\n\ accessor\ method\r\n
+comment5.params=
+comment5.target=java.util.ArrayList\ gety2Vals()
+comment5.text=\r\n\ a\ method\ to\ return\ an\ arrayList\ of\ the\ y\ values\ above\ the\ center\ corresponding\ to\ the\ x\ values\ \r\n\ @param-\ not\ used\r\n\ accessor\ method\r\n
+numComments=6

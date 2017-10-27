@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SB_Circle()
+comment0.text=\r\n\ constructor\ for\ SB_DrawCircle()\r\n\ initializes\ variables\r\n\ @param-\ not\ used\r\n
+comment1.params=
+comment1.target=void\ userInput()
+comment1.text=\r\n\ get\ the\ input\ necessary\ from\ the\ user\ to\ draw\ the\ circle\r\n\ input\ needed\:\ radius\ and\ x\ and\ y\ coordinates\ of\ the\ center\ of\ the\ circle\r\n\ it\ is\ assumed\ that\ all\ user\ input\ is\ good\r\n\ @param-\ not\ used\r\n
+comment2.params=
+comment2.target=void\ setPoints()
+comment2.text=\r\n\ calculate\ points\ on\ the\ circle\ using\ characteristics\ given\ by\ the\ user\r\n\ add\ calculated\ values\ to\ arrayLists\ to\ store\ them\ to\ graph\ later\r\n\ setter\ method\r\n
+comment3.params=
+comment3.target=java.util.ArrayList\ getxVals()
+comment3.text=\r\n\ return\ the\ array\ list\ of\ x\ values\ on\ the\ circle\r\n\ @param-\ not\ used\r\n\ accessor\ method\r\n
+comment4.params=
+comment4.target=java.util.ArrayList\ getyVals()
+comment4.text=\r\n\ return\ the\ array\ list\ of\ y\ values\ on\ the\ circle\ above\ the\ center\r\n\ @param-\ not\ used\r\n\ accessor\ method\r\n
+comment5.params=
+comment5.target=java.util.ArrayList\ gety2Vals()
+comment5.text=\r\n\ return\ the\ array\ list\ of\ y\ values\ on\ the\ circle\ below\ the\ center\r\n\ @param-\ not\ used\r\n\ accessor\ method\ \r\n
+numComments=6

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=RC_Parabola()
+comment0.text=\r\n\ constructor\ for\ RC_Parabola\ class\r\n\ initialize\ variables/get\ input/calculate\ points\r\n\ @param-\ not\ used\r\n
+comment1.params=
+comment1.target=void\ userInput()
+comment1.text=\r\n\ a\ method\ to\ get\ the\ user\ input\ about\ characteristics\ of\ the\ conic\ section\r\n\ it\ is\ assumed\ that\ all\ user\ input\ is\ good\ //\ no\ checks\r\n\ @param-\ not\ used\r\n\ input\ needed\:\ p\ value,\ center,\ orientation\r\n
+comment2.params=
+comment2.target=void\ setPoints()
+comment2.text=\r\n\ a\ method\ to\ calculate\ points\ on\ the\ parabola\ and\ put\ them\ into\ the\ arraylists\ to\ hold\ the\ points\r\n\ the\ points\ in\ the\ arrayLists\ will\ be\ graphed\ at\ a\ later\ point\r\n\ @param-not\ used\r\n
+comment3.params=
+comment3.target=java.util.ArrayList\ getxVals()
+comment3.text=\r\n\ return\ the\ array\ list\ of\ x\ values\ on\ the\ parabola\r\n\ @param-\ not\ used\r\n\ accessor\ method\r\n
+comment4.params=
+comment4.target=java.util.ArrayList\ getyVals()
+comment4.text=\r\n\ return\ the\ array\ list\ of\ y\ values\ on\ the\ parabola\r\n\ @param-\ not\ used\r\n\ accessor\ method\r\n
+comment5.params=
+comment5.target=java.util.ArrayList\ gety2Vals()
+comment5.text=\r\n\ return\ the\ second\ array\ list\ of\ y\ values\ on\ the\ parabola\r\n\ @param-\ not\ used\r\n\ accessor\ method\r\n
+numComments=6

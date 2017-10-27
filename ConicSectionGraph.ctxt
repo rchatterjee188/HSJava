@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ConicSectionGraph()
+comment0.text=\r\n\ constructor/driver\ for\ the\ ConicSectionGraph\ project\r\n\ initialize\ variables\ and\ holds\ code\ to\ call\ functions\ to\ draw\ the\ graph\r\n\ has\ code\ to\ check\ for\ a\ mouse\ clicking\ on\ either\ "button"\ on\ the\ graph\r\n\ @param-\ not\ used\r\n
+comment1.params=
+comment1.target=void\ graphShape()
+comment1.text=\r\n\ a\ method\ to\ create\ new\ shape\ objects\ to\ graph\ on\ the\ graph\r\n\ adds\ new\ shapes\ to\ a\ hashMap\ of\ shapes\r\n\ @param-not\ used\r\n\ input\:\ the\ user\ is\ asked\ to\ input\ the\ name\ he/she\ would\ like\ to\ call\ shape\ (the\ key\ used\ to\ access\ the\ shape\ in\ the\ hashmap)\r\n
+comment2.params=
+comment2.target=java.lang.String\ getConicShape()
+comment2.text=\r\n\ decide\ which\ conic\ section\ the\ user\ would\ like\ to\ draw\ based\ upon\ what\ they\ input\r\n\ present\ the\ user\ with\ options\ of\ which\ conic\ sections\ they\ may\ draw\ and\ ask\ them\ to\ input\ which\ one\r\n\ they\ would\ like\ to\ draw\r\n\ @param-\ not\ used\r\n
+comment3.params=
+comment3.target=void\ drawGrid()
+comment3.text=\r\n\ draw\ the\ coordinate\ grid\ in\ black\ on\ which\ the\ conic\ section\ will\ be\ drawn\r\n\ the\ x\ and\ y\ axis\ are\ thicker\ than\ the\ rest\ of\ the\ lines\r\n\ @param-\ not\ used\r\n
+comment4.params=name
+comment4.target=void\ drawGraph(java.lang.String)
+comment4.text=\r\n\ draw\ the\ graph\ of\ the\ conic\ section\ in\ magenta\ using\ the\ arrayLists\ of\ x\ and\ y\ coordinate\ values\ \r\n\ that\ correspond\ to\ each\ other\ with\ each\ array\ index\r\n\ @param-\ name\ >>\ they\ key\ to\ access\ the\ shape\ in\ the\ hashMap\ shape\r\n
+numComments=5
