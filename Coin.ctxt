@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=aValue\ aName
+comment0.target=Coin(double,\ java.lang.String)
+comment0.text=\r\n\ \ \ \ \ \ Constructs\ a\ coin.\r\n\ \ \ \ \ \ @param\ aValue\ the\ monetary\ value\ of\ the\ coin\r\n\ \ \ \ \ \ @param\ aName\ the\ name\ of\ the\ coin\r\n
+comment1.params=
+comment1.target=double\ getValue()
+comment1.text=\r\n\ \ \ \ \ \ Gets\ the\ coin\ value.\r\n\ \ \ \ \ \ @return\ the\ value\r\n\ \ \ \ \ \ This\ is\ a\ accessor/getter\ method\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ \ \ \ \ \ Gets\ the\ coin\ name.\r\n\ \ \ \ \ \ @return\ the\ name\r\n\ \ \ \ \ \ This\ is\ a\ accessor/getter\ method\r\n
+numComments=3
